@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/reaCommerce-react/static/js/main.f4351b27.js",
+    "main.js": "/reaCommerce-react/static/js/main.595adc8b.js",
     "index.html": "/reaCommerce-react/index.html",
-    "main.f4351b27.js.map": "/reaCommerce-react/static/js/main.f4351b27.js.map"
+    "main.595adc8b.js.map": "/reaCommerce-react/static/js/main.595adc8b.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4351b27.js"
+    "static/js/main.595adc8b.js"
   ]
 }
